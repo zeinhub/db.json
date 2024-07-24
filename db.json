@@ -1,299 +1,541 @@
 {
-    "city": [
-        {
-            "id": 54,
-            "name": "Jakarta Barat",
-            "province": {
-                "id": 6,
-                "name": "DKI Jakarta"
-            }
-        },
-        {
-            "id": 55,
-            "name": "Jakarta Pusat",
-            "province": {
-                "id": 6,
-                "name": "DKI Jakarta"
-            }
-        },
-        {
-            "id": 56,
-            "name": "Jakarta Selatan",
-            "province": {
-                "id": 6,
-                "name": "DKI Jakarta"
-            }
-        },
-        {
-            "id": 57,
-            "name": "Jakarta Timur",
-            "province": {
-                "id": 6,
-                "name": "DKI Jakarta"
-            }
-        },
-        {
-            "id": 58,
-            "name": "Jakarta Utara",
-            "province": {
-                "id": 6,
-                "name": "DKI Jakarta"
-            }
-        },
-        {
-            "id": 59,
-            "name": "Kepulauan Seribu",
-            "province": {
-                "id": 6,
-                "name": "DKI Jakarta"
-            }
+  "city": [
+    {
+      "id": 54,
+      "name": "Jakarta Barat",
+      "province": {
+        "id": 6,
+        "name": "DKI Jakarta"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Jakarta Pusat",
+      "province": {
+        "id": 6,
+        "name": "DKI Jakarta"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Jakarta Selatan",
+      "province": {
+        "id": 6,
+        "name": "DKI Jakarta"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Jakarta Timur",
+      "province": {
+        "id": 6,
+        "name": "DKI Jakarta"
+      }
+    },
+    {
+      "id": 58,
+      "name": "Jakarta Utara",
+      "province": {
+        "id": 6,
+        "name": "DKI Jakarta"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Kepulauan Seribu",
+      "province": {
+        "id": 6,
+        "name": "DKI Jakarta"
+      }
+    }
+  ],
+  "subdistrict": [
+    {
+      "id": 698,
+      "name": "Pal Merah",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
         }
-    ],
-    "subdistrict": [
-        {
-            "id": 698,
-            "name": "Pal Merah",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 699,
-            "name": "Kalideres",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 700,
-            "name": "Taman Sari",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 701,
-            "name": "Kebon Jeruk",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 702,
-            "name": "Kembangan",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 703,
-            "name": "Cengkareng",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 704,
-            "name": "Tambora",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
-        },
-        {
-            "id": 705,
-            "name": "Grogol Petamburan",
-            "city": {
-                "id": 54,
-                "name": "Jakarta Barat",
-                "province": {
-                    "id": 6,
-                    "name": "DKI Jakarta"
-                }
-            }
+      }
+    },
+    {
+      "id": 699,
+      "name": "Kalideres",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
         }
-    ],
-    "urban": [
-        {
-            "id": 10716,
-            "name": "Kamal",
-            "zipCode": 11810
-        },
-        {
-            "id": 10733,
-            "name": "Kalideres",
-            "zipCode": 11840
-        },
-        {
-            "id": 10737,
-            "name": "Tegal Alur",
-            "zipCode": 11820
-        },
-        {
-            "id": 10754,
-            "name": "Semanan",
-            "zipCode": 11850
-        },
-        {
-            "id": 10767,
-            "name": "Pegadungan",
-            "zipCode": 11830
+      }
+    },
+    {
+      "id": 700,
+      "name": "Taman Sari",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
         }
-    ],
-    "province": [
-        {
-            "id": 1,
-            "name": "Aceh"
-        },
-        {
-            "id": 2,
-            "name": "Bali"
-        },
-        {
-            "id": 3,
-            "name": "Banten"
-        },
-        {
-            "id": 4,
-            "name": "Bengkulu"
-        },
-        {
-            "id": 5,
-            "name": "Daerah Istimewa Yogyakarta"
-        },
-        {
-            "id": 6,
-            "name": "DKI Jakarta"
-        },
-        {
-            "id": 7,
-            "name": "Gorontalo"
-        },
-        {
-            "id": 8,
-            "name": "Jambi"
-        },
-        {
-            "id": 9,
-            "name": "Jawa Barat"
-        },
-        {
-            "id": 10,
-            "name": "Jawa Tengah"
-        },
-        {
-            "id": 11,
-            "name": "Jawa Timur"
-        },
-        {
-            "id": 12,
-            "name": "Kalimantan Barat"
-        },
-        {
-            "id": 13,
-            "name": "Kalimantan Selatan"
-        },
-        {
-            "id": 14,
-            "name": "Kalimantan Tengah"
-        },
-        {
-            "id": 15,
-            "name": "Kalimantan Timur"
-        },
-        {
-            "id": 16,
-            "name": "Kalimantan Utara"
-        },
-        {
-            "id": 17,
-            "name": "Kepulauan Bangka Belitung"
-        },
-        {
-            "id": 18,
-            "name": "Kepulauan Riau"
-        },
-        {
-            "id": 19,
-            "name": "Lampung"
-        },
-        {
-            "id": 20,
-            "name": "Maluku"
-        },
-        {
-            "id": 21,
-            "name": "Maluku Utara"
-        },
-        {
-            "id": 22,
-            "name": "Nusa Tenggara Barat"
-        },
-        {
-            "id": 23,
-            "name": "Nusa Tenggara Timur"
-        },
-        {
-            "id": 24,
-            "name": "Papua"
-        },
-        {
-            "id": 25,
-            "name": "Papua Barat"
-        },
-        {
-            "id": 26,
-            "name": "Riau"
-        },
-        {
-            "id": 27,
-            "name": "Sulawesi Barat"
-        },
-        {
-            "id": 28,
-            "name": "Sulawesi Selatan"
-        },
-        {
-            "id": 29,
-            "name": "Sulawesi Tengah"
-        },
-        {
-            "id": 30,
-            "name": "Sulawesi Tenggara"
+      }
+    },
+    {
+      "id": 701,
+      "name": "Kebon Jeruk",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
         }
-    ]
+      }
+    },
+    {
+      "id": 702,
+      "name": "Kembangan",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
+        }
+      }
+    },
+    {
+      "id": 703,
+      "name": "Cengkareng",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
+        }
+      }
+    },
+    {
+      "id": 704,
+      "name": "Tambora",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
+        }
+      }
+    },
+    {
+      "id": 705,
+      "name": "Grogol Petamburan",
+      "city": {
+        "id": 54,
+        "name": "Jakarta Barat",
+        "province": {
+          "id": 6,
+          "name": "DKI Jakarta"
+        }
+      }
+    }
+  ],
+  "urban": [
+    {
+      "id": 10716,
+      "name": "Kamal",
+      "zipCode": 11810
+    },
+    {
+      "id": 10733,
+      "name": "Kalideres",
+      "zipCode": 11840
+    },
+    {
+      "id": 10737,
+      "name": "Tegal Alur",
+      "zipCode": 11820
+    },
+    {
+      "id": 10754,
+      "name": "Semanan",
+      "zipCode": 11850
+    },
+    {
+      "id": 10767,
+      "name": "Pegadungan",
+      "zipCode": 11830
+    }
+  ],
+  "province": [
+    {
+      "id": 1,
+      "name": "Aceh"
+    },
+    {
+      "id": 2,
+      "name": "Bali"
+    },
+    {
+      "id": 3,
+      "name": "Banten"
+    },
+    {
+      "id": 4,
+      "name": "Bengkulu"
+    },
+    {
+      "id": 5,
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "id": 6,
+      "name": "DKI Jakarta"
+    },
+    {
+      "id": 7,
+      "name": "Gorontalo"
+    },
+    {
+      "id": 8,
+      "name": "Jambi"
+    },
+    {
+      "id": 9,
+      "name": "Jawa Barat"
+    },
+    {
+      "id": 10,
+      "name": "Jawa Tengah"
+    },
+    {
+      "id": 11,
+      "name": "Jawa Timur"
+    },
+    {
+      "id": 12,
+      "name": "Kalimantan Barat"
+    },
+    {
+      "id": 13,
+      "name": "Kalimantan Selatan"
+    },
+    {
+      "id": 14,
+      "name": "Kalimantan Tengah"
+    },
+    {
+      "id": 15,
+      "name": "Kalimantan Timur"
+    },
+    {
+      "id": 16,
+      "name": "Kalimantan Utara"
+    },
+    {
+      "id": 17,
+      "name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "id": 18,
+      "name": "Kepulauan Riau"
+    },
+    {
+      "id": 19,
+      "name": "Lampung"
+    },
+    {
+      "id": 20,
+      "name": "Maluku"
+    },
+    {
+      "id": 21,
+      "name": "Maluku Utara"
+    },
+    {
+      "id": 22,
+      "name": "Nusa Tenggara Barat"
+    },
+    {
+      "id": 23,
+      "name": "Nusa Tenggara Timur"
+    },
+    {
+      "id": 24,
+      "name": "Papua"
+    },
+    {
+      "id": 25,
+      "name": "Papua Barat"
+    },
+    {
+      "id": 26,
+      "name": "Riau"
+    },
+    {
+      "id": 27,
+      "name": "Sulawesi Barat"
+    },
+    {
+      "id": 28,
+      "name": "Sulawesi Selatan"
+    },
+    {
+      "id": 29,
+      "name": "Sulawesi Tengah"
+    },
+    {
+      "id": 30,
+      "name": "Sulawesi Tenggara"
+    }
+  ],
+  "refnum": [
+    {
+      "success": true,
+      "message": "Success get Awb Number",
+      "data": "FD2410113630000015"
+    }
+  ],
+  "check-price": [
+    {
+      "success": true,
+      "message": "Success Check Price",
+      "data": [
+        {
+          "id": "849020da-78be-46e4-830c-2ba057b1ab62",
+          "name": "ID Express",
+          "code": "idx",
+          "logo": "public/logo/logo-1719852755924.png",
+          "senderCode": "37",
+          "receiverCode": "14916",
+          "minPrice": 36000,
+          "maxPrice": 120000,
+          "services": [
+            {
+              "name": "iDtruck (Cargo)",
+              "code": "06",
+              "price": 36000,
+              "duration": "3 - 4 Hari",
+              "provider": "idx"
+            },
+            {
+              "name": "STD (Standard)",
+              "code": "00",
+              "price": 120000,
+              "duration": "1 - 2 Hari",
+              "provider": "idx"
+            }
+          ]
+        },
+        {
+          "id": "3e60dd73-9b90-43e8-80fe-9b04b57a9107",
+          "name": "SAPX",
+          "code": "sapx",
+          "logo": "public/logo/logo-1719853983185.png",
+          "senderCode": "JK0703",
+          "receiverCode": "JK0808",
+          "minPrice": 54000,
+          "maxPrice": 408000,
+          "services": [
+            {
+              "name": "SATRIA CARGO",
+              "code": "DRGREG",
+              "price": 54000,
+              "duration": "2 - 3 Hari",
+              "provider": "sapx"
+            },
+            {
+              "name": "SATRIA REG",
+              "code": "UDRREG",
+              "price": 96000,
+              "duration": "1 - 2 Hari",
+              "provider": "sapx"
+            },
+            {
+              "name": "SATRIA ODS",
+              "code": "UDRONS",
+              "price": 180000,
+              "duration": "1 - 2 Hari",
+              "provider": "sapx"
+            },
+            {
+              "name": "SATRIA SDS",
+              "code": "UDRSDS",
+              "price": 408000,
+              "duration": "0 - 1 Hari",
+              "provider": "sapx"
+            }
+          ]
+        },
+        {
+          "id": "b3f66b20-07bf-43bc-8ec9-b7867dd10b71",
+          "name": "J&T Cargo",
+          "code": "jtc",
+          "logo": "public/logo/logo-1719854047482.jpg",
+          "senderCode": "699",
+          "receiverCode": "706",
+          "minPrice": 0,
+          "maxPrice": 0,
+          "services": []
+        }
+      ]
+    }
+  ],
+  "product-type": [
+    {
+      "id": "idx",
+      "success": true,
+      "message": "Success get all shipment content",
+      "data": [
+        {
+          "name": "Dokumen",
+          "category": "pickup-package-type",
+          "value": "01"
+        },
+        {
+          "name": "Barang Umum",
+          "category": "pickup-package-type",
+          "value": "00"
+        },
+        {
+          "name": "Sarang Burung",
+          "category": "pickup-package-type",
+          "value": "02"
+        }
+      ]
+    },
+    {
+      "id": "sapx",
+      "success": true,
+      "message": "Success get all shipment content",
+      "data": [
+        {
+          "name": "KARTU KREDIT",
+          "category": "SHTDC",
+          "value": "SHT81"
+        },
+        {
+          "name": "BILLING",
+          "category": "SHTDC",
+          "value": "SHT82"
+        },
+        {
+          "name": "BROSUR",
+          "category": "SHTDC",
+          "value": "SHT83"
+        },
+        {
+          "name": "POLIS",
+          "category": "SHTDC",
+          "value": "SHT88"
+        },
+        {
+          "name": "REKENING KORAN",
+          "category": "SHTDC",
+          "value": "SHT85"
+        },
+        {
+          "name": "MAJALAH",
+          "category": "SHTDC",
+          "value": "SHT86"
+        },
+        {
+          "name": "UNDANGAN",
+          "category": "SHTDC",
+          "value": "SHT87"
+        },
+        {
+          "name": "PIN",
+          "category": "SHTDC",
+          "value": "SHT84"
+        },
+        {
+          "name": "ELEKTRONIK",
+          "category": "SHTPC",
+          "value": "SHT10"
+        },
+        {
+          "name": "BARANG RUMAH TANGGA",
+          "category": "SHTPC",
+          "value": "SHT11"
+        },
+        {
+          "name": "PAKAIAN",
+          "category": "SHTPC",
+          "value": "SHT12"
+        },
+        {
+          "name": "DOKUMEN",
+          "category": "SHTDC",
+          "value": "SHTDC"
+        },
+        {
+          "name": "PAKET",
+          "category": "SHTPC",
+          "value": "SHTPC"
+        },
+        {
+          "name": "BARANG ANTIK",
+          "category": "SHTPC",
+          "value": "SHT13"
+        },
+        {
+          "name": "SURAT",
+          "category": "SHTDC",
+          "value": "SHT89"
+        },
+        {
+          "name": "MAKANAN",
+          "category": "SHTPC",
+          "value": "SHT90"
+        },
+        {
+          "name": "KARTU KREDIT",
+          "category": "SHTKK",
+          "value": "SHTKK"
+        },
+        {
+          "name": "EMAS",
+          "category": "SHTKK",
+          "value": "SHT92"
+        },
+        {
+          "name": "VOUCHER",
+          "category": "SHTKK",
+          "value": "SHT93"
+        }
+      ]
+    }
+  ],
+  "insurance": [
+    {
+      "success": true,
+      "message": "Success get all insurance",
+      "data": {
+        "admin": 2000,
+        "cost": 3000,
+        "packaging": "60000"
+      }
+    }
+  ],
+  "pickups": [
+    {
+      "success": true,
+      "message": "Success create order pickup",
+      "data": {
+        "requestId": "0cf3ff9e-cad9-4f76-a330-e93750fc0494",
+        "awbNumber": "DMP00126866005",
+        "referenceNumber": "FD2415085802000021",
+        "label": "http://apisanbox.coresyssap.com/shipment/label/printout?awb_no=DMP00126866005&api_key=DEV_m4rK3tPlac3%23_2019",
+        "partnerCode": "sapx"
+      }
+    }
+  ]
 }
